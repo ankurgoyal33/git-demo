@@ -2,6 +2,6 @@
 
 This is the first file in the repo.
 
-##Ipsum below
-lolowlowlloowowllwowl
+##Website content
+The fun begins with learning something new.
 
